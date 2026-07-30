@@ -105,8 +105,8 @@ ORDER BY "% SLA Cumprido" DESC;
 **1. Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/familialog-etl-pipeline.git
-cd familialog-etl-pipeline
+git clone https://github.com/lukasgumercindo-del/logistics-etl-postgresql.git
+cd logistics-etl-postgresql
 ```
 
 **2. Instale as dependências do Python:**
@@ -128,3 +128,6 @@ Abra o notebook `familialog_data_pipeline.ipynb` e rode as células de extraçã
 ---
 
 ✨ *Projeto desenvolvido com foco em práticas reais de Engenharia e Análise de Dados.*
+
+
+
